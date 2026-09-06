@@ -13,7 +13,7 @@ const Footer = () => {
                             <Typography variant='h6' component='span' color='white'>Contact Details</Typography>
                         </Box>
                         <Typography variant='body1' component='p' sx={{ ml: 6, }}>021-555343</Typography>
-                        <Typography variant='body1' component='p' sx={{ ml: 6 }}>9862045258</Typography>
+                        <Typography variant='body1' component='p' sx={{ ml: 6 }}>9842050036</Typography>
                     </Grid>
                     <Grid item xs={12} sm={6} color='white' >
                         <Box sx={{ display: 'flex', flexDirection: 'row', alignItems: 'center', my: 1 }}>
